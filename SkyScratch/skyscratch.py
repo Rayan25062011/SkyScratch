@@ -97,6 +97,6 @@ class SkyScratch(object):
                 
         except Exception as e:
             print(e)
-            print("An error accured")
+            print("An error occured")
             input("Press any key to continue...")
             exit()
