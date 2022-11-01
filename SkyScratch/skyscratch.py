@@ -10,7 +10,7 @@ import threading
 from subprocess import check_output
 
 
-class SkyScratch(object):
+class vpn(object):
     def set_restrictions(*args):
         try:
             headers = {
