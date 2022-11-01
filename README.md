@@ -23,6 +23,6 @@ Output:
 ```
 Staring...
 <CONNECTION Finland>
-<IP CHANGE: 135.181.146.187>
+<DUISGUISE: 135.181.146.187>
 █
 ```
