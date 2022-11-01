@@ -3,9 +3,8 @@ This is VPN that will disguise 🥸 your identity and encrypt 🔒your network t
 Also portable! 📱
 
 # Install
-```
-git clone https://github.com/Rayan25062011/SkyScratch
-```
+Copy skyscratch.py and make a folder called SkyScratch and in that folder
+create a file called skyscratch.py then follow the examples bellow.
 
 # Examples
 ```python
