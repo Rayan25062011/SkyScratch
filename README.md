@@ -20,7 +20,7 @@ vpn.start()
 ```
 Output:
 ```
-Staring...
+Starting...
 <CONNECTION Finland>
 <DUISGUISE: 135.181.146.187>
 █
