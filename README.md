@@ -22,6 +22,6 @@ Output:
 ```
 Starting...
 <CONNECTION Finland>
-<DUISGUISE: 135.181.146.187>
+<DISGUISE: 135.181.146.187>
 █
 ```
