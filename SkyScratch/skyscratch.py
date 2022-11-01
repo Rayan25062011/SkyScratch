@@ -10,7 +10,7 @@ from subprocess import check_output
 
 
 class SkyScratch(object):
-    def set_restrictions(*args):
+    def start(*args):
         try:
             headers = {
                 'Strict-Transport-Security': 'status_code'
