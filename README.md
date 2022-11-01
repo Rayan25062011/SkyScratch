@@ -1,5 +1,6 @@
 # SkyScratch
 This is VPN that will disguise 🥸 your identity and encrypt 🔒your network traffic 🚗
+Also portable! 📱
 
 # Install
 ```
