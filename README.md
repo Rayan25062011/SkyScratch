@@ -1,5 +1,6 @@
 
-![image](https://user-images.githubusercontent.com/101386337/199214642-cb2f7efb-071f-4d94-818c-058a2b166666.png)
+![image](https://user-images.githubusercontent.com/101386337/199218731-79686922-7e51-4e00-9c31-14b186e9964e.png)
+
 
 # SkyScratch
 This is VPN that will disguise 🥸 your identity and encrypt 🔒your network traffic 🚗
