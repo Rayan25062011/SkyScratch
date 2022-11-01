@@ -6,8 +6,8 @@ import subprocess
 import signal
 import requests
 import random
+import socket
 from subprocess import check_output
-
 
 class SkyScratch(object):
     def start(*args):
@@ -56,38 +56,37 @@ class SkyScratch(object):
             randip = random.choice(list_)
             if randip == ip2:
                 print("CONNECTION Finland")
-                print("<IP CHANGE: 135.181.146.187>") 
+                print("<DUISGUISE: 135.181.146.187>") 
 
             if randip == ip3:
                 print("<CONNECTION Japan>")
-                print("<IP CHANGE: 52.194.231.209>")
+                print("<DUISGUISE: 52.194.231.209>")
 
             if randip == ip4:
                print("<CONNECTION Austria>") 
-               print("<IP CHANGE: 202.61.204.51>")
+               print("<DUISGUISE: 202.61.204.51>")
 
             if randip == ip5:
                 print("<CONNECTION Costa Rica>")
-                print("<IP CHANGE: 190.61.84.166>")
+                print("<DUISGUISE: 190.61.84.166>")
 
             if randip == ip6:
                 print("<CONNECTION France>")
-                print("<IP CHANGE: 190.61.84.166>")
+                print("<DUISGUISE: 190.61.84.166>")
 
             if randip == ip7:
                 print("<CONNECTION Germany>")
-                print("<IP CHANGE: 144.76.42.215>")
+                print("<DUISGUISE: 144.76.42.215>")
 
             if randip == ip8:
                 print("<CONNECTION Greece>")
-                print("<IP CHANGE: 80.106.247.145>")
+                print("<DUISGUISE: 80.106.247.145>")
 
             if randip == ip:
                 print("<CONNECTION North America>")
-                print("<IP CHANGE: 158.177.252.170>")
+                print("<DUISGUISE: 158.177.252.170>")
 
-            r = requests.get('http://127.0.0.1:8000', proxies=randip)
-
+            r = requests.get('http://localhost:8000', proxies=randip, timeout=None)
             try:
                 if r:
                     pass
