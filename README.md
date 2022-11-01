@@ -16,8 +16,7 @@ from SkyScratch.skyscratch import SkyScratch
 
 print("Starting...")
 vpn = SkyScratch()
-while True:
-    vpn.start()
+vpn.start()
 ```
 Output:
 ```
