@@ -25,3 +25,8 @@ Starting...
 <DISGUISE: 135.181.146.187>
 █
 ```
+
+# FAQ
+• Additional North Korean server!
+• Doesn't work without Wi-Fi
+• Does not change your ip, disguises your ip.
