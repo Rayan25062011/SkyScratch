@@ -48,7 +48,9 @@ Starting...
 # Facts
 • Uses proxy servers
 
-• 4 days of research
+• Does not use socks5 n'or HTTP
+
+• Uses Apache license 2.0
 
 # Credits
 Credit to free-proxy.cz/en/ for the servers.
