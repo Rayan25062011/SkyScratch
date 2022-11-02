@@ -85,7 +85,10 @@ class SkyScratch(object):
             if randip == ip:
                 print("<CONNECTION North America>")
                 print("<DUISGUISE: 158.177.252.170>")
-
+            trick = {
+                "origin": f"{randip}"
+            }
+            requests.put("http://localhost:8000", trick)
             r = requests.get('http://localhost:8000', proxies=randip, timeout=None)
             try:
                 if r:
