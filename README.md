@@ -16,8 +16,8 @@ Also portable! 📱
 • Increased security
 
 # Install
-Copy skyscratch.py and make a folder called SkyScratch and in that folder
-create a file called skyscratch.py then follow the examples bellow.
+Copy skyscratch.py and make a folder in your code editor called SkyScratch and in that folder
+create a file called skyscratch.py and paste, then follow the examples bellow.
 
 # Examples
 ```python
