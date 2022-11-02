@@ -8,7 +8,9 @@ Also portable! 📱
 
 # Updates
 • New North Korean server!
+
 • Bug fixes
+
 • Increased security
 
 # Install
