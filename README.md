@@ -16,8 +16,10 @@ Also portable! 📱
 • Increased security
 
 # Install
-Copy skyscratch.py and make a folder in your code editor called SkyScratch and in that folder
-create a file called skyscratch.py and paste, then follow the examples bellow.
+Run the following:
+```
+pip install git+https://github.com/Rayan25062011/SkyScratch
+```
 
 # Examples
 Make a new file to test it (test.py) and run the code bellow:
