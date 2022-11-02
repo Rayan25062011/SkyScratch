@@ -20,7 +20,7 @@ Copy skyscratch.py and make a folder in your code editor called SkyScratch and i
 create a file called skyscratch.py and paste, then follow the examples bellow.
 
 # Examples
-Make a new file to run it (test.py) and run the code bellow:
+Make a new file to test it (test.py) and run the code bellow:
 
 ```python
 from SkyScratch.skyscratch import SkyScratch
