@@ -52,7 +52,12 @@ class SkyScratch(object):
                 "https": "https://80.106.247.145:53410",
                 "http": "http://80.106.247.145:53410"
             }
-            list_ = [ip, ip2, ip3, ip4, ip5, ip6, ip7, ip8]
+            
+            ip9 = {
+                "https": "https://121.150.239.66",
+                "http": "http://121.150.239.66"
+            }
+            list_ = [ip, ip2, ip3, ip4, ip5, ip6, ip7, ip8, ip9]
             randip = random.choice(list_)
             if randip == ip2:
                 print("CONNECTION Finland")
@@ -81,7 +86,10 @@ class SkyScratch(object):
             if randip == ip8:
                 print("<CONNECTION Greece>")
                 print("<DUISGUISE: 80.106.247.145>")
-
+                
+            if randip == ip9:
+                print("<CONNECTION North Korea>")
+                print("<DUISGUISE: 121.150.239.66>")
             if randip == ip:
                 print("<CONNECTION North America>")
                 print("<DUISGUISE: 158.177.252.170>")
