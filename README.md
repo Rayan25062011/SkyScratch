@@ -6,6 +6,11 @@
 This is VPN that will disguise 🥸 your identity and encrypt 🔒your network traffic 🚗
 Also portable! 📱
 
+# Updates
+• New North Korean server!
+• Bug fixes
+• Increased security
+
 # Install
 Copy skyscratch.py and make a folder called SkyScratch and in that folder
 create a file called skyscratch.py then follow the examples bellow.
