@@ -45,6 +45,9 @@ Starting...
 
 • CTRL+C to stop SkyScratch
 
+# License
+This project is under the license: 'Apache-2.0 license'
+
 # Facts
 • Uses proxy servers
 
