@@ -9,6 +9,8 @@ Also portable! 📱
 # Updates
 • New North Korean server!
 
+• New Lebanese server!
+
 • Bug fixes
 
 • Increased security
@@ -34,7 +36,7 @@ Starting...
 ```
 
 # FAQ
-• Additional North Korean server!
+• 2 new servers added!
 
 • Doesn't work without Wi-Fi
 
