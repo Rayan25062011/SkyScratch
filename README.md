@@ -1,6 +1,19 @@
 
-![image](https://user-images.githubusercontent.com/101386337/199218731-79686922-7e51-4e00-9c31-14b186e9964e.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/101386337/199218731-79686922-7e51-4e00-9c31-14b186e9964e.png"/>
+</p>
 
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 # SkyScratch
 This is VPN that will disguise 🥸 your identity and encrypt 🔒your network traffic 🚗
