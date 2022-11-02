@@ -38,8 +38,21 @@ Starting...
 ```
 
 # FAQ
+
 • 2 new servers added!
 
 • Doesn't work without Wi-Fi
 
-• Does not change your ip, disguises your ip.
+• CTRL+C to stop SkyScratch
+
+# Facts
+• Uses proxy servers
+
+• 4 days of research
+
+# Credits
+Credit to free-proxy.cz/en/ for the servers.
+
+# Help wanted
+We are wanting some contributors for our projects and maintainance since its quite alot of work,
+We accept as many contributors to help, enjoy.
