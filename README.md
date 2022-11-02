@@ -28,5 +28,7 @@ Starting...
 
 # FAQ
 • Additional North Korean server!
+
 • Doesn't work without Wi-Fi
+
 • Does not change your ip, disguises your ip.
