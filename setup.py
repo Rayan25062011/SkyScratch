@@ -10,5 +10,6 @@ setup(name='SkyScratch',
       package_dir={
           'SkyScratch': 'SkyScratch/skyscratch'
       },
+      packages=find_packages(where="SkyScratch"),
       scripts=['SkyScratch/skyscratch']
       )
