@@ -20,6 +20,9 @@ This is VPN that will disguise 🥸 your identity and encrypt 🔒your network t
 Also portable! 📱
 
 # Updates
+
+• New Ukrainian server!
+
 • New North Korean server!
 
 • New Lebanese server!
