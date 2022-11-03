@@ -31,9 +31,9 @@ Also portable! 📱
 # Install
 Run the following:
 ```
-Copy skyscratch.py and make file with the same name then paste it in your code editor 
-and follow the examples bellow.
+git clone https://github.com/Rayan25062011/SkyScratch
 ```
+now you should have the exact same copy of this repo.
 
 # Examples
 Make a new file to test it (test.py) and run the code bellow:
