@@ -39,7 +39,7 @@ and follow the examples bellow.
 Make a new file to test it (test.py) and run the code bellow:
 
 ```python
-from SkyScratch.skyscratch import SkyScratch
+from skyscratch import SkyScratch
 
 print("Starting...")
 vpn = SkyScratch()
