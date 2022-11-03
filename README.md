@@ -42,7 +42,7 @@ now you should have the exact same copy of this repo.
 Make a new file to test it (test.py) and run the code bellow:
 
 ```python
-from skyscratch import SkyScratch
+from SkyScratch.skyscratch import SkyScratch
 
 print("Starting...")
 vpn = SkyScratch()
