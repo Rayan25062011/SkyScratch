@@ -31,7 +31,8 @@ Also portable! 📱
 # Install
 Run the following:
 ```
-pip install git+https://github.com/Rayan25062011/SkyScratch
+Copy skyscratch.py and make file with the same name then paste it in your code editor 
+and follow the examples bellow.
 ```
 
 # Examples
