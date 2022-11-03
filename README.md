@@ -58,7 +58,7 @@ Starting...
 
 # FAQ
 
-• 2 new servers added!
+• 3 new servers added!
 
 • Doesn't work without Wi-Fi
 
