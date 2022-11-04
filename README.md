@@ -21,6 +21,8 @@ Also portable! 📱
 
 # Updates
 
+• New Canadian server!
+
 • New Ukrainian server!
 
 • New North Korean server!
@@ -58,7 +60,7 @@ Starting...
 
 # FAQ
 
-• 3 new servers added!
+• 4 new servers added!
 
 • Doesn't work without Wi-Fi
 
