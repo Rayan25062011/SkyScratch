@@ -19,7 +19,13 @@
 This is VPN that will disguise 🥸 your identity and encrypt 🔒your network traffic 🚗
 Also portable! 📱
 
+### How it works
+![image](https://user-images.githubusercontent.com/101386337/200008508-a716ca36-88e4-4529-9e7e-241e80348546.jpeg)
+
+
 # Updates
+
+• New Canadian server!
 
 • New Ukrainian server!
 
@@ -58,7 +64,7 @@ Starting...
 
 # FAQ
 
-• 3 new servers added!
+• 4 new servers added!
 
 • Doesn't work without Wi-Fi
 
