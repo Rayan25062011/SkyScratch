@@ -70,7 +70,7 @@ class SkyScratch(object):
             
             ip12 = {  
                 "https": "https://207.164.153.47",
-                "http": "http://207.164.153.47
+                "http": "http://207.164.153.47"
             }
             list_ = [ip, ip2, ip3, ip4, ip5, ip6, ip7, ip8, ip9, ip10, ip11, ip12]
             randip = random.choice(list_)
