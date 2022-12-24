@@ -23,16 +23,6 @@ Also portable! 📱
 ![image](https://user-images.githubusercontent.com/101386337/200008508-a716ca36-88e4-4529-9e7e-241e80348546.jpeg)
 
 
-# Updates
-
-• New Canadian server!
-
-• New Ukrainian server!
-
-• New North Korean server!
-
-• New Lebanese server!
-
 • Bug fixes
 
 • Increased security
